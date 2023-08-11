@@ -13,7 +13,6 @@ Scale Difference in Retinal Vessel Segmentation'
 </div>
 <div align="center">
   <img src="log/visual_samples/asdam.png" width="80%">
-  Framework of dilation-supervised learning.
 </div>
 
 Retinal fundus image segmentation based on deep learning is an important method for auxiliary diagnosis of ophthalmic diseases. Due to the scale difference of the blood vessels and the imbalance between foreground and background pixels
