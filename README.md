@@ -6,10 +6,10 @@ Scale Difference in Retinal Vessel Segmentation'
 
 ## Abstract
 <div align="center">
-  <img src="log/visual_samples/model.png" width="80%">
+  <img src="log/visual_samples/model.png" width="90%">
 </div>
 <div align="center">
-  <img src="log/visual_samples/standard.png" width="80%">
+  <img src="log/visual_samples/standard.png" width="90%">
 </div>
 <div align="center">
   <img src="log/visual_samples/asdam.png" width="80%">
