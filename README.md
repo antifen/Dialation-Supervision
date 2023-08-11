@@ -4,7 +4,7 @@ This repository is the PyTorch code for the paper 'Dilation-supervised Learning:
 Scale Difference in Retinal Vessel Segmentation'
 [[Paper]](https://ieeexplore.ieee.org/document/10185605/)
 
-## Introduction
+## Abstract
 <div align="center">
   <img src="log/visual_samples/model.png" width="80%">
 </div>
