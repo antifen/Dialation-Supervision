@@ -6,13 +6,13 @@ Scale Difference in Retinal Vessel Segmentation'
 
 ## Introduction
 <div align="center">
-  <img src="dilation_supervised/log/visual_samples/model.png" width="100%">
+  <img src="Dilation-Supervised/log/visual_samples/model.png" width="100%">
 </div>
 <div align="center">
-  <img src="dilation_supervised/log/visual_samples/standard.png" width="100%">
+  <img src="Dilation-Supervised/log/visual_samples/standard.png" width="100%">
 </div>
 <div align="center">
-  <img src="dilation_supervised/log/visual_samples/asdam.png" width="100%">
+  <img src="Dilation-Supervised/log/visual_samples/asdam.png" width="100%">
   Framework of dilation-supervised learning.
 </div>
 
