@@ -44,16 +44,13 @@ path_val_image_chasedb = './dataset1/npy/CHASEDB/tempt/val_label_save.npy'
 path_val_label_chasedb = './dataset1/npy/CHASEDB/tempt/val_label_save.npy'
 
 # saved path of drive dataset
-# path_image_drive = './dataset1/npy/DRIVE/tempt/train_image_save.npy'
-# path_label_drive = './dataset1/npy/DRIVE/tempt/train_label_save.npy'
-# path_test_image_drive = './dataset1/npy/DRIVE/tempt/test_image_save.npy'
-# path_test_label_drive = './dataset1/npy/DRIVE/tempt/test_label_save.npy'
-# path_val_image_drive = './dataset1/npy/DRIVE/tempt/val_label_save.npy'
-# path_val_label_drive = './dataset1/npy/DRIVE/tempt/val_label_save.npy'
-path_image_drive = '/root/daima/YuzuSoft/dataset1/npy/DRIVE/tempt/train_image_save.npy'
-path_label_drive = '/root/daima/YuzuSoft/dataset1/npy/DRIVE/tempt/train_label_save.npy'
-path_test_image_drive = '/root/daima/YuzuSoft/dataset1/npy/DRIVE/tempt/test_image_save.npy'
-path_test_label_drive = '/root/daima/YuzuSoft/dataset1/npy/DRIVE/tempt/test_label_save.npy'
+path_image_drive = './dataset1/npy/DRIVE/tempt/train_image_save.npy'
+path_label_drive = './dataset1/npy/DRIVE/tempt/train_label_save.npy'
+path_test_image_drive = './dataset1/npy/DRIVE/tempt/test_image_save.npy'
+path_test_label_drive = './dataset1/npy/DRIVE/tempt/test_label_save.npy'
+path_val_image_drive = './dataset1/npy/DRIVE/tempt/val_label_save.npy'
+path_val_label_drive = './dataset1/npy/DRIVE/tempt/val_label_save.npy'
+
 
 # saved path of stare dataset
 path_image_stare = './dataset1/npy/STARE/tempt/train_image_save.npy'
