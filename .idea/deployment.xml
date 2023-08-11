@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="root@202.193.61.195:50018">
+    <serverData>
+      <paths name="root@10.12.1.94:21280">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.193.61.195:50018">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/daima/dilation_supervised" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.193.61.195:50018 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/daima/dilation_supervised" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@202.193.61.32:50007 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/root/Pycharm_Project/dilation_supervised" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
